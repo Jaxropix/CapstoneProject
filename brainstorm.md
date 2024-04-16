@@ -21,4 +21,5 @@ not too addicting
 create a simple one workout rountine for just legs during the capstone project
 
 final decisions: Travel Budget
+![IMG_0862](https://github.com/Jaxropix/CapstoneProject/assets/142180880/c970092c-7f47-4800-a070-7537eab04916)
 
