@@ -1,3 +1,5 @@
+
+
 Brainstorming Ideas:
 - Education: Creating a place to store outside resources such as 
 videos and links for your classes
@@ -21,5 +23,11 @@ not too addicting
 create a simple one workout rountine for just legs during the capstone project
 
 final decisions: Travel Budget
+-will add wishlist 
+- things to bring
+- travel tips of destination
+- maps of the area
+- people in the trip + invite code
+
 ![IMG_0862](https://github.com/Jaxropix/CapstoneProject/assets/142180880/c970092c-7f47-4800-a070-7537eab04916)
 
